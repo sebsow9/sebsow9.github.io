@@ -7,6 +7,7 @@
 
 
 ## PS. NAJGORSZY SPELL
+
 1. EXHAUST - USUNCIE
 ## ps. drugi najgorszy
 2. barriera - uzywaja go tylko przestraszeni gracze mida lux i ahri
